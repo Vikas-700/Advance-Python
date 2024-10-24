@@ -1,0 +1,3 @@
+Order ID,Date,Time,Username,Meal Type,Gender,Age,Marital Status,Items Ordered,Total Bill
+ee5a56d6-67f3-4ba1-ae14-19fa8a2c00a6,2024-10-03,21:38:44,Vikas,Dinner,Male,20,Single,Cold Drink (x2); Pizza (x2); Pasta (x1); Burger (x4),4300
+dc955b2f-089b-46c3-af1b-7d417bd396f6,2024-10-03,21:41:30,Hemraj,Dinner,male,23,couple,Pizza (x2); Burger (x2); Cold Drink (x2),3000
